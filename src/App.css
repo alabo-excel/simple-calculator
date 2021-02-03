@@ -3,11 +3,11 @@
   padding: 50px;
 }
 input{
-  padding: 25px;
-  margin: 20px;
+  padding: 20px;
+  margin: 10px;
 }
 .filling{
-  width: 25%;
+  width: 19%;
   border: 1px solid grey;
   margin-bottom: 15px;
 }
@@ -16,7 +16,10 @@ input{
   margin: auto;
 }
 #sum{
-  width:80%;
+  width: 90%;
   font-size: 40px;
-  padding: 0px
+  padding: 0px;
+  border: none;
+  background-color: orange;
+  color: white;
 }
